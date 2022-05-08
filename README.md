@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
 				<meta charset="UTF-8">
 				<title>InstaUI</title>
 				<link rel="stylesheet" href="InstaUI.css">
 				<script src="https://kit.fontawesome.com/8ec4405cd6.js" crossorigin="anonymous"></script>
 				<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&family=Poppins:wght@300;400&family=Reggae+One&display=swap" rel="stylesheet">
-<style>
-				*{
+                                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                                <link href="https://fonts.googleapis.com/css2?family=Dongle:wght@300;400;700&family=Poppins:wght@300;400&family=Reggae+One&display=swap" rel="stylesheet">
+    <style>
+	                 *{
 				margin:0px 0px;
 				padding:0px;
 				font-family: 'Poppins', sans-serif;
@@ -146,7 +144,7 @@ h3{
 																</div>
 											</div>
 								<div class="img-user">
-																<img src="file:///storage/emulated/0/Download/images%20(16).jpeg" alt="">
+																<img src="file:///storage/emulated/0/Download/images%20(16).jpeg" alt="op">
 																<h3>Im Soyam</h3>
 																<p>My name is Soyam and I'm a front end web developer</p>
 																
@@ -157,7 +155,7 @@ h3{
 												<div class="social-media">
 																<div>
 																				<a href="https://www.instagram.com/imsoyam_/">
-																						<img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png"alt="">		
+																						<img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" alt="ok">		
 																				</a>
 																
 																				<h4>22.4K</h4>
@@ -172,7 +170,7 @@ h3{
 												</div>
 												<div>
 																<a href="https://www.reddit.com/user/SoyamPatra/">
-																				<img src="https://www.redditinc.com/assets/images/site/reddit-logo.png"alt="">
+																				<img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="ok">
 																</a>
 																<h4>54.6K</h4>
 																<p>followers</p>
@@ -181,4 +179,3 @@ h3{
 								</div>					
 				</div>
 </body>
-</html>
