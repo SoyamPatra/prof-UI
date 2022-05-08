@@ -144,7 +144,7 @@ h3{
 																</div>
 											</div>
 								<div class="img-user">
-																<img src="file:///storage/emulated/0/Download/images%20(16).jpeg" alt="op">
+																<img src="file:///storage/emulated/0/Download/images (16).jpeg" alt="op">
 																<h3>Im Soyam</h3>
 																<p>My name is Soyam and I'm a front end web developer</p>
 																
