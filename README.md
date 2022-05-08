@@ -18,7 +18,6 @@
 
 .container{
 				width:100%;
-				height:100vh;
 				background-color:#474741 ;
 				display:flex;
 				justify-content:center;
@@ -179,3 +178,7 @@ h3{
 								</div>					
 				</div>
 </body>
+
+
+
+
